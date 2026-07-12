@@ -1,26 +1,5 @@
-# 01 - Branches Basics: Create, Switch, Delete
+# Branches Basics
 
-## Introduction
-Git branches allow you to work on different features or fixes independently.
+Create branch: `git branch <name>`. Switch: `git switch <name>`. Delete: `git branch -d <name>`.
 
-## Creating a Branch
-```bash
-git branch feature/new-login
-git checkout -b feature/new-login
-```
-
-## Switching Branches
-```bash
-git checkout main
-git switch feature/new-login
-```
-
-## Deleting Branches
-```bash
-git branch -d feature/old-branch
-git branch -D feature/unmerged-branch
-```
-
-## Best Practices
-- Use descriptive branch names
-- Keep branches short-lived
+> 📘 Next: [Commits & Commit Messages Best Practices](02-commits-and-commit-messages-best-practices.md)
