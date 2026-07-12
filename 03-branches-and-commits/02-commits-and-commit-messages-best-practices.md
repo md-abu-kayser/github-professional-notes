@@ -1,15 +1,5 @@
-# 02 - Commits and Commit Messages Best Practices
+# Commits & Commit Messages
 
-## Good Commit Messages
-- Use present tense
-- Keep subject line under 50 characters
-- Add body for more details
+Write concise, descriptive messages. Use imperative mood. Conventional Commits: `feat:`, `fix:`, `docs:`, etc.
 
-Example:
-```
-feat: add user authentication
-
-- Implement login functionality
-- Add JWT token support
-- Update API endpoints
-```
+> 📘 Next: [Branch Protection Rules](03-branch-protection-rules.md)

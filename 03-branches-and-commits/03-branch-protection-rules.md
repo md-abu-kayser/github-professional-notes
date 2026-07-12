@@ -1,6 +1,5 @@
-# 03 - Branch Protection Rules
+# Branch Protection Rules
 
-Branch protection rules help maintain code quality by enforcing:
-- Required pull requests
-- Status checks
-- Required reviewers
+Enforce PR reviews, status checks, linear history, and branch restrictions via Settings → Branches.
+
+> 📘 Next: [Merge Methods – Merge, Squash, Rebase](04-merge-methods-merge-squash-rebase.md)
