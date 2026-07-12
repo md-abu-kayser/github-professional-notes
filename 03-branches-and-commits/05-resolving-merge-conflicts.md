@@ -1,8 +1,5 @@
-# 05 - Resolving Merge Conflicts
+# Resolving Merge Conflicts
 
-Manual resolution in conflicted files:
-<<<<<<< HEAD
-Current changes
-=======
-Incoming changes
->>>>>>> branch-name
+Identify conflict markers, edit, `git add`, then `git merge --continue` or commit.
+
+> 📘 Next: [Git History & Blame](06-git-history-and-blame.md)

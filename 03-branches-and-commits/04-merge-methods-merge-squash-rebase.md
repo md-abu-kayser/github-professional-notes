@@ -1,10 +1,7 @@
-# 04 - Merge Methods: Merge, Squash, Rebase
+# Merge Methods
 
-## Merge Commit
-git merge feature-branch
+- **Merge commit**: preserve full history.
+- **Squash**: combine into single commit.
+- **Rebase**: replay commits onto base branch (linear history).
 
-## Squash Merge
-Combines all commits into one.
-
-## Rebase
-git rebase main
+> 📘 Next: [Resolving Merge Conflicts](05-resolving-merge-conflicts.md)
