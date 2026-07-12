@@ -1,3 +1,5 @@
-# 02 - Draft Pull Requests and WIP
+# Draft Pull Requests
 
-Use Draft PRs for work in progress.
+Mark as draft to signal work in progress. Convert to ready when review is requested.
+
+> 📘 Next: [Reviewing Pull Requests](03-reviewing-pull-requests.md)
